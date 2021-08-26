@@ -1,0 +1,35 @@
+﻿  Main.cpp
+C:\GLP\SFML-0\Main.cpp(40,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\SFML-0\Main.cpp(48,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\SFML-0\Main.cpp(69,106): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\SFML-0\Main.cpp(69,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\SFML-0\Main.cpp(87,79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\GLP\SFML-0\Main.cpp(88,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\GLP\SFML-0\Main.cpp(101,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\SFML-0\Main.cpp(101,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\SFML-0\Main.cpp(91): warning C4172: returning address of local variable or temporary: mousePos
+  SFML-0.vcxproj -> C:\GLP\SFML-0\Debug\SFML-0.exe
